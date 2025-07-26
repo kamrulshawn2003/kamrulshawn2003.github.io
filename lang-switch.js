@@ -47,8 +47,8 @@ document.addEventListener('DOMContentLoaded', () => {
       'This is a copy and updated version of Bangladesh Navy Website': '这是孟加拉国海军网站的复制和更新版本',
       'Html Form': 'HTML表单',
       'A simple driving Licence Registration form.': '一个简单的驾驶执照注册表。',
-      'Project Title 3': '项目标题3',
-      'Brief description of project 3.': '项目3的简要描述。'
+      'Personal Demo Website': '个人演示网站',
+      'It is my personal demo website.': '这是我的个人演示网站。'
     },
     'services.html': {
       'Home': '首页',
